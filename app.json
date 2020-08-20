@@ -1,0 +1,15 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/type/type",
+		"pages/mark/mark",
+		"pages/search/search",
+		"pages/catalog/catalog"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "杂志",
+        "navigationBarTextStyle": "black"
+    }
+}
